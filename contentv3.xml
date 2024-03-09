@@ -171,8 +171,8 @@
            <string role="key" value="anchors_linked_from_fields"></string>
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #ff6600; font-family: tahoma, arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;Bienvenidos a la clase de la semana #1&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;resources/img0.51.png&quot; width=&quot;183&quot; height=&quot;266&quot; alt=&quot;Img_2Libros&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;span style=&quot;color: #993300; font-family: tahoma, arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #ff6600; font-family: tahoma, arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;Bienvenidos a la clase de la semana # 1&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;resources/img0.51.png&quot; width=&quot;189&quot; height=&quot;275&quot; alt=&quot;Img_2Libros&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;span style=&quot;color: #993300; font-family: tahoma, arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #808080;&quot;&gt;Sean todos bienvenidos a nuestra primera semana de clases virtuales del módulo “Gobierno y Estructura Organizativa de TI”, les recomiendo que vayan haciendo lo siguiente con los recursos que aquí se les comparte:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -207,7 +207,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1706"></int>
+                  <int value="1763"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -221,7 +221,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="62_108_2.19"></unicode>
+                <unicode value="62_108_2.20"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -232,7 +232,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="img0.51.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.51.png"></string>
+                  <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.51.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="7bbac37260135076378fe87a74ebbd00"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -261,7 +261,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="20"></int>
+           <int value="21"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -477,7 +477,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1665"></int>
+                     <int value="1722"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -491,7 +491,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="73_109_2.22"></unicode>
+                   <unicode value="73_109_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="11">
                     <dictionary>
@@ -502,7 +502,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.13.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.13.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.13.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="da917c3e1b02a7fb8d8a06b2242658d7"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -531,7 +531,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -633,7 +633,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1664"></int>
+                     <int value="1721"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -647,7 +647,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="74_110_2.22"></unicode>
+                   <unicode value="74_110_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="14">
                     <dictionary>
@@ -658,7 +658,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.12.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.12.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.12.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="90d3d9e2e6d70081a73061ebd52b71b5"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -687,7 +687,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -785,7 +785,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1666"></int>
+                     <int value="1723"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -799,7 +799,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="75_111_2.22"></unicode>
+                   <unicode value="75_111_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="17">
                     <dictionary>
@@ -810,7 +810,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.14.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.14.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.14.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d8d3f839b539b51e1d6c5e0902a7c35a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -839,7 +839,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -1038,7 +1038,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1667"></int>
+                     <int value="1724"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1052,7 +1052,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="77_113_2.22"></unicode>
+                   <unicode value="77_113_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="22">
                     <dictionary>
@@ -1063,7 +1063,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.15.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.15.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.15.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="eed005cb02912c9bc8527cc8bfc19e23"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1092,7 +1092,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -1305,7 +1305,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1668"></int>
+                     <int value="1725"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1319,7 +1319,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="78_114_2.22"></unicode>
+                   <unicode value="78_114_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="28">
                     <dictionary>
@@ -1330,7 +1330,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.16.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.16.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.16.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="81cfad0b54f01c59446a0989ad86867d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1359,7 +1359,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -1453,7 +1453,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1670"></int>
+                     <int value="1727"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1467,7 +1467,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="79_115_2.22"></unicode>
+                   <unicode value="79_115_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="31">
                     <dictionary>
@@ -1478,7 +1478,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.18.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.18.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.18.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="85e33078ff5b62a03fd1b563f9166962"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1507,7 +1507,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -1601,7 +1601,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1671"></int>
+                     <int value="1728"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1615,7 +1615,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="80_116_2.22"></unicode>
+                   <unicode value="80_116_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="34">
                     <dictionary>
@@ -1626,7 +1626,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.19.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.19.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.19.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c173b87b38d7b1c1edd4b686d0336745"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1655,7 +1655,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -1749,7 +1749,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1674"></int>
+                     <int value="1731"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1763,7 +1763,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="81_117_2.22"></unicode>
+                   <unicode value="81_117_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="37">
                     <dictionary>
@@ -1774,7 +1774,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.20.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.20.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.20.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="fb347d811a042d10b9a0cfbb96a97903"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1803,7 +1803,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -1897,7 +1897,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1675"></int>
+                     <int value="1732"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1911,7 +1911,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="82_118_2.22"></unicode>
+                   <unicode value="82_118_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="40">
                     <dictionary>
@@ -1922,7 +1922,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.21.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.21.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.21.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="1b345d27d82c21812e7f87ea1e3c6620"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1951,7 +1951,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -2045,7 +2045,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1676"></int>
+                     <int value="1733"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2059,7 +2059,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="83_119_2.22"></unicode>
+                   <unicode value="83_119_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="43">
                     <dictionary>
@@ -2070,7 +2070,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.22.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.22.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.22.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e144c935de32b2cf64674e53b355869a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2099,7 +2099,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -2193,7 +2193,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1677"></int>
+                     <int value="1734"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2207,7 +2207,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="84_120_2.22"></unicode>
+                   <unicode value="84_120_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="46">
                     <dictionary>
@@ -2218,7 +2218,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.23.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.23.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.23.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="67ba43eca38e383ee6048b16a129bdb6"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2247,7 +2247,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -2345,7 +2345,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1678"></int>
+                     <int value="1735"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2359,7 +2359,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="85_121_2.44"></unicode>
+                   <unicode value="85_121_2.46"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="49">
                     <dictionary>
@@ -2370,7 +2370,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.24.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.24.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.24.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="358ae093f030cf3d47e019d843d762fb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2397,7 +2397,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1713"></int>
+                     <int value="1770"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2411,7 +2411,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="85_121_2.45"></unicode>
+                   <unicode value="85_121_2.47"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="50">
                     <dictionary>
@@ -2422,7 +2422,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img1.2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img1.2.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img1.2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c64f4700668a1ae6da232de07558eb5d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2451,7 +2451,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="46"></int>
+              <int value="48"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -2546,7 +2546,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1679"></int>
+                     <int value="1736"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2560,7 +2560,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="86_122_2.22"></unicode>
+                   <unicode value="86_122_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="53">
                     <dictionary>
@@ -2571,7 +2571,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.25.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.25.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.25.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="14b94a7827d71adac25795e19cb336d7"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2600,7 +2600,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -2694,7 +2694,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1680"></int>
+                     <int value="1737"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2708,7 +2708,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="87_123_2.22"></unicode>
+                   <unicode value="87_123_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="56">
                     <dictionary>
@@ -2719,7 +2719,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.26.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.26.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.26.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8e055ec579c1f4b9cccc8e9a6c2bb730"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2748,7 +2748,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -2842,7 +2842,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1681"></int>
+                     <int value="1738"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2856,7 +2856,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="88_124_2.22"></unicode>
+                   <unicode value="88_124_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="59">
                     <dictionary>
@@ -2867,7 +2867,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.27.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.27.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.27.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="325ab6dab7a6828c5c87958f2953e874"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2896,7 +2896,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -2990,7 +2990,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1682"></int>
+                     <int value="1739"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3004,7 +3004,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="89_125_2.22"></unicode>
+                   <unicode value="89_125_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="62">
                     <dictionary>
@@ -3015,7 +3015,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.28.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.28.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.28.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b3d9f79e1aba37aaf69a43006be279d6"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3044,7 +3044,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="23"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="27"></reference>
              </dictionary>
@@ -3259,7 +3259,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1714"></int>
+                     <int value="1771"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3273,7 +3273,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="90_126_2.31"></unicode>
+                   <unicode value="90_126_2.33"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="68">
                     <dictionary>
@@ -3284,7 +3284,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img1.3.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img1.3.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img1.3.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="22189270414fed738a7fa56f6a23bcd9"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3311,7 +3311,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1716"></int>
+                     <int value="1773"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3325,7 +3325,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="90_126_2.32"></unicode>
+                   <unicode value="90_126_2.34"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="69">
                     <dictionary>
@@ -3336,7 +3336,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img1.5.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img1.5.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img1.5.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="25cacc94131e05fc788c67e639802b06"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3365,7 +3365,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="33"></int>
+              <int value="35"></int>
               <string role="key" value="parentNode"></string>
               <reference key="67"></reference>
              </dictionary>
@@ -3459,7 +3459,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1685"></int>
+                     <int value="1742"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3473,7 +3473,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="91_127_2.26"></unicode>
+                   <unicode value="91_127_2.27"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="72">
                     <dictionary>
@@ -3484,7 +3484,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.30.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.30.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.30.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b8b9f611d42f1731648e150d6a5c0415"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3513,7 +3513,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="27"></int>
+              <int value="28"></int>
               <string role="key" value="parentNode"></string>
               <reference key="67"></reference>
              </dictionary>
@@ -3606,7 +3606,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1683"></int>
+                     <int value="1740"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3620,7 +3620,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="92_128_2.25"></unicode>
+                   <unicode value="92_128_2.26"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="75">
                     <dictionary>
@@ -3631,7 +3631,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.29.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.29.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.29.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9b881e136b99d958cc9e7efb83edac4f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3660,7 +3660,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="26"></int>
+              <int value="27"></int>
               <string role="key" value="parentNode"></string>
               <reference key="67"></reference>
              </dictionary>
@@ -3753,7 +3753,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1686"></int>
+                     <int value="1743"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3767,7 +3767,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="93_129_2.25"></unicode>
+                   <unicode value="93_129_2.26"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="78">
                     <dictionary>
@@ -3778,7 +3778,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.31.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.31.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.31.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="77d9032ebc2cd2acc5934a3a9ffc334c"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3807,7 +3807,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="26"></int>
+              <int value="27"></int>
               <string role="key" value="parentNode"></string>
               <reference key="67"></reference>
              </dictionary>
@@ -3900,7 +3900,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1688"></int>
+                     <int value="1745"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3914,7 +3914,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="94_130_2.25"></unicode>
+                   <unicode value="94_130_2.26"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="81">
                     <dictionary>
@@ -3925,7 +3925,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.33.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.33.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.33.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ea3ab919a5ed2bab758c38ce6ca20851"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3954,7 +3954,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="26"></int>
+              <int value="27"></int>
               <string role="key" value="parentNode"></string>
               <reference key="67"></reference>
              </dictionary>
@@ -4047,7 +4047,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1687"></int>
+                     <int value="1744"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4061,7 +4061,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="95_131_2.25"></unicode>
+                   <unicode value="95_131_2.26"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="84">
                     <dictionary>
@@ -4072,7 +4072,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.32.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.32.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.32.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="6a330cba6b25022df7f001ac52b2aa73"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4101,7 +4101,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="26"></int>
+              <int value="27"></int>
               <string role="key" value="parentNode"></string>
               <reference key="67"></reference>
              </dictionary>
@@ -4194,7 +4194,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1689"></int>
+                     <int value="1746"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4208,7 +4208,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="96_132_2.25"></unicode>
+                   <unicode value="96_132_2.26"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="87">
                     <dictionary>
@@ -4219,7 +4219,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.34.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.34.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.34.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="351d8c3e40db9a3c596888323dab3aa8"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4248,7 +4248,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="26"></int>
+              <int value="27"></int>
               <string role="key" value="parentNode"></string>
               <reference key="67"></reference>
              </dictionary>
@@ -4341,7 +4341,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1690"></int>
+                     <int value="1747"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4355,7 +4355,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="97_133_2.25"></unicode>
+                   <unicode value="97_133_2.26"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="90">
                     <dictionary>
@@ -4366,7 +4366,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.35.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.35.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.35.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="30fd024a6abed838e677720e7885867f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4395,7 +4395,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="26"></int>
+              <int value="27"></int>
               <string role="key" value="parentNode"></string>
               <reference key="67"></reference>
              </dictionary>
@@ -4488,7 +4488,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1691"></int>
+                     <int value="1748"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4502,7 +4502,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="98_134_2.25"></unicode>
+                   <unicode value="98_134_2.26"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="93">
                     <dictionary>
@@ -4513,7 +4513,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.36.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.36.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.36.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0ecbadb67113c827a46a3a08ee3a41ce"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4542,7 +4542,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="26"></int>
+              <int value="27"></int>
               <string role="key" value="parentNode"></string>
               <reference key="67"></reference>
              </dictionary>
@@ -4708,7 +4708,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1661"></int>
+                     <int value="1718"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4722,7 +4722,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3_111_2.72"></unicode>
+                   <unicode value="3_111_2.74"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="97">
                     <dictionary>
@@ -4733,7 +4733,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.1.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="98e9baa26173e779fe8a77d030acc6b7"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4760,7 +4760,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1712"></int>
+                     <int value="1769"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4774,7 +4774,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3_111_2.73"></unicode>
+                   <unicode value="3_111_2.75"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="98">
                     <dictionary>
@@ -4785,7 +4785,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img1.1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img1.1.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img1.1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f7f2a930383f6a34a708f696e7d6637d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4814,7 +4814,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="74"></int>
+              <int value="76"></int>
               <string role="key" value="parentNode"></string>
               <reference key="96"></reference>
              </dictionary>
@@ -4909,7 +4909,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1663"></int>
+                     <int value="1720"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4923,7 +4923,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="104_110_2.12"></unicode>
+                   <unicode value="104_110_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="101">
                     <dictionary>
@@ -4934,7 +4934,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.11.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.11.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.11.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="845a247c8a559407096672c3b54bd5ec"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4963,7 +4963,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="96"></reference>
              </dictionary>
@@ -5057,7 +5057,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1669"></int>
+                     <int value="1726"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5071,7 +5071,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="105_111_2.12"></unicode>
+                   <unicode value="105_111_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="104">
                     <dictionary>
@@ -5082,7 +5082,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.17.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.17.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.17.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="fe01fe75b0b330d2affc0513d37c4255"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5111,7 +5111,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="96"></reference>
              </dictionary>
@@ -5335,7 +5335,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1672"></int>
+                     <int value="1729"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5349,7 +5349,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="12_115_2.32"></unicode>
+                   <unicode value="12_115_2.33"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="110">
                     <dictionary>
@@ -5360,7 +5360,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.2.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ecfb7728d1d46475bd376a9caf8d8db2"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5389,7 +5389,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="33"></int>
+              <int value="34"></int>
               <string role="key" value="parentNode"></string>
               <reference key="109"></reference>
              </dictionary>
@@ -5485,7 +5485,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1710"></int>
+                     <int value="1767"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5499,7 +5499,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="47_112_2.31"></unicode>
+                   <unicode value="47_112_2.32"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="113">
                     <dictionary>
@@ -5510,7 +5510,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.9.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.9.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.9.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="45824c30a5a43eaa73d6bcd1b2190bdc"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5539,7 +5539,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="32"></int>
+              <int value="33"></int>
               <string role="key" value="parentNode"></string>
               <reference key="109"></reference>
              </dictionary>
@@ -5648,7 +5648,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1711"></int>
+                     <int value="1768"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5662,7 +5662,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="13_116_2.33"></unicode>
+                   <unicode value="13_116_2.34"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="116">
                     <dictionary>
@@ -5673,7 +5673,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="1dd5b8cd93c85ba95680fbdafbedbf0e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5702,7 +5702,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="34"></int>
+              <int value="35"></int>
               <string role="key" value="parentNode"></string>
               <reference key="109"></reference>
              </dictionary>
@@ -5906,7 +5906,7 @@ or providing a statement to begin a debate."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1684"></int>
+                     <int value="1741"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5920,7 +5920,7 @@ or providing a statement to begin a debate."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="15_118_6.64"></unicode>
+                   <unicode value="15_118_6.66"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="121">
                     <dictionary>
@@ -5931,7 +5931,7 @@ or providing a statement to begin a debate."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.3.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.3.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.3.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e2aabdd547b5dc81304c968b956713cd"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5958,7 +5958,7 @@ or providing a statement to begin a debate."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1715"></int>
+                     <int value="1772"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5972,7 +5972,7 @@ or providing a statement to begin a debate."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="15_118_6.65"></unicode>
+                   <unicode value="15_118_6.67"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="122">
                     <dictionary>
@@ -5983,7 +5983,7 @@ or providing a statement to begin a debate."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img1.4.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img1.4.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img1.4.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0042d1a0607eca83ee9f5ef9ae7cbbc1"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6012,7 +6012,7 @@ or providing a statement to begin a debate."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="66"></int>
+              <int value="68"></int>
               <string role="key" value="parentNode"></string>
               <reference key="109"></reference>
              </dictionary>
@@ -6133,7 +6133,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1673"></int>
+                     <int value="1730"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6147,7 +6147,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_117_2.31"></unicode>
+                   <unicode value="25_117_2.32"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="126">
                     <dictionary>
@@ -6158,7 +6158,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.2.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ecfb7728d1d46475bd376a9caf8d8db2"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6187,7 +6187,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="32"></int>
+              <int value="33"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -6284,7 +6284,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1693"></int>
+                     <int value="1750"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6298,7 +6298,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="40_132_2.32"></unicode>
+                   <unicode value="40_132_2.33"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="129">
                     <dictionary>
@@ -6309,7 +6309,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.4.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.4.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.4.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="183041dc58b478bf5b6d8bd16dd50a5e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6338,7 +6338,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="33"></int>
+              <int value="34"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -6438,7 +6438,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1704"></int>
+                     <int value="1761"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6452,7 +6452,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="41_133_2.32"></unicode>
+                   <unicode value="41_133_2.33"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="132">
                     <dictionary>
@@ -6463,7 +6463,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.5.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.5.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.5.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="82cce446670093a975b830504600bb22"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6492,7 +6492,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="33"></int>
+              <int value="34"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -6599,7 +6599,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1708"></int>
+                     <int value="1765"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6613,7 +6613,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="43_108_2.31"></unicode>
+                   <unicode value="43_108_2.32"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="135">
                     <dictionary>
@@ -6624,7 +6624,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.7.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.7.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.7.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="393af5154bb6e359882b73ee8c0c34cb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6653,7 +6653,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="32"></int>
+              <int value="33"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -6757,7 +6757,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1709"></int>
+                     <int value="1766"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6771,7 +6771,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="45_110_2.31"></unicode>
+                   <unicode value="45_110_2.32"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="138">
                     <dictionary>
@@ -6782,7 +6782,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.8.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.8.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.8.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="95294a70c6e1a2bddf0e0d886142a7dc"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6811,7 +6811,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="32"></int>
+              <int value="33"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -6908,7 +6908,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1694"></int>
+                     <int value="1751"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6922,7 +6922,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="108_114_2.12"></unicode>
+                   <unicode value="108_114_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="141">
                     <dictionary>
@@ -6933,7 +6933,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.40.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.40.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.40.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="587272dc7ee0addf4d86873abd38194b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6962,7 +6962,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -7056,7 +7056,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1695"></int>
+                     <int value="1752"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7070,7 +7070,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="109_115_2.12"></unicode>
+                   <unicode value="109_115_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="144">
                     <dictionary>
@@ -7081,7 +7081,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.41.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.41.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.41.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="45492a47bcb4983c299ebacddc5c3f97"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7110,7 +7110,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -7203,7 +7203,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1692"></int>
+                     <int value="1749"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7217,7 +7217,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="107_113_2.12"></unicode>
+                   <unicode value="107_113_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="147">
                     <dictionary>
@@ -7228,7 +7228,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.39.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.39.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.39.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="52eee86baaf83dd733e7d7bedb2d8061"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7257,7 +7257,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -7365,7 +7365,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1662"></int>
+                     <int value="1719"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7379,7 +7379,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="48_113_2.31"></unicode>
+                   <unicode value="48_113_2.32"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="150">
                     <dictionary>
@@ -7390,7 +7390,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.10.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.10.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.10.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="37e26eb275157a4fa02a7ea1b8ed8d93"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7419,7 +7419,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="32"></int>
+              <int value="33"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -7520,7 +7520,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1697"></int>
+                     <int value="1754"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7534,7 +7534,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="111_117_2.12"></unicode>
+                   <unicode value="111_117_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="153">
                     <dictionary>
@@ -7545,7 +7545,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.43.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.43.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.43.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b032f001eb4748f7cde3ab4f80087a28"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7574,7 +7574,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -7717,7 +7717,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1698"></int>
+                     <int value="1755"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7731,7 +7731,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="112_118_2.12"></unicode>
+                   <unicode value="112_118_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="156">
                     <dictionary>
@@ -7742,7 +7742,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.44.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.44.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.44.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="af9be93f934f358928d4581b0ca77a6b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7771,7 +7771,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -7873,7 +7873,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1699"></int>
+                     <int value="1756"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7887,7 +7887,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="113_119_2.12"></unicode>
+                   <unicode value="113_119_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="159">
                     <dictionary>
@@ -7898,7 +7898,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.45.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.45.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.45.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e1de62766eab2ecc2675f3e452cf2e92"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7927,7 +7927,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -8028,7 +8028,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1703"></int>
+                     <int value="1760"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8042,7 +8042,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="117_123_2.13"></unicode>
+                   <unicode value="117_123_2.14"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="162">
                     <dictionary>
@@ -8053,7 +8053,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.49.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.49.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.49.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="3147f55f3590d0f2a59fb2f2e378bc04"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8082,7 +8082,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="14"></int>
+              <int value="15"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -8179,7 +8179,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1705"></int>
+                     <int value="1762"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8193,7 +8193,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="118_124_2.12"></unicode>
+                   <unicode value="118_124_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="165">
                     <dictionary>
@@ -8204,7 +8204,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.50.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.50.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.50.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e4415a4d21bd2cdb31b9e0908aec570e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8233,7 +8233,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -8354,7 +8354,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1700"></int>
+                     <int value="1757"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8368,7 +8368,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="114_120_2.12"></unicode>
+                   <unicode value="114_120_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="168">
                     <dictionary>
@@ -8379,7 +8379,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.46.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.46.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.46.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="289ef04a8adb8f4a716862fdd7c0d3d2"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8408,7 +8408,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -8511,7 +8511,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1696"></int>
+                     <int value="1753"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8525,7 +8525,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="110_116_2.12"></unicode>
+                   <unicode value="110_116_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="171">
                     <dictionary>
@@ -8536,7 +8536,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.42.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.42.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.42.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ec69c2575bb213ab644278280eadb269"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8565,7 +8565,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="125"></reference>
              </dictionary>
@@ -8783,7 +8783,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1701"></int>
+                     <int value="1758"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8797,7 +8797,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="115_121_2.24"></unicode>
+                   <unicode value="115_121_2.26"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="177">
                     <dictionary>
@@ -8808,7 +8808,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.47.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.47.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.47.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b00e2e0db24272557318c753ec05c2ce"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8835,7 +8835,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1717"></int>
+                     <int value="1774"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8849,7 +8849,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="115_121_2.25"></unicode>
+                   <unicode value="115_121_2.27"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="178">
                     <dictionary>
@@ -8860,7 +8860,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img1.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e459757607d5d5a4fc1f30c5526cc923"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8889,7 +8889,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="26"></int>
+              <int value="28"></int>
               <string role="key" value="parentNode"></string>
               <reference key="176"></reference>
              </dictionary>
@@ -9028,7 +9028,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1702"></int>
+                     <int value="1759"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -9042,7 +9042,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="116_122_2.12"></unicode>
+                   <unicode value="116_122_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="182">
                     <dictionary>
@@ -9053,7 +9053,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.48.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.48.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.48.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ed5cd358750d3002146a7c583dee7b18"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -9082,7 +9082,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="181"></reference>
              </dictionary>
@@ -9242,7 +9242,7 @@ complete this learning."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1707"></int>
+                     <int value="1764"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -9256,7 +9256,7 @@ complete this learning."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="42_134_2.32"></unicode>
+                   <unicode value="42_134_2.33"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="186">
                     <dictionary>
@@ -9267,7 +9267,7 @@ complete this learning."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.6.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpyvl7be\\img0.6.png"></string>
+                     <string value="c:\\users\\julio\\appdata\\local\\temp\\tmpdfwz12\\img0.6.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="af0708085ae9e2fd45273ec2ece1d46e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -9296,7 +9296,7 @@ complete this learning."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="33"></int>
+              <int value="34"></int>
               <string role="key" value="parentNode"></string>
               <reference key="185"></reference>
              </dictionary>
